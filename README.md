@@ -60,15 +60,15 @@ Why English to SQL??
     
     **[RASAT+PICARD](https://paperswithcode.com/paper/rasat-integrating-relational-structures-into) RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL (EMNLP2022)** [https://arxiv.org/pdf/2205.06983v2.pdf](https://arxiv.org/pdf/2205.06983v2.pdf)  https://github.com/lumia-group/rasat 
     
-    5. ******************WikiSQL 
+    5. **WikiSQL** 
    
-    ******************Paper:****************** [https://arxiv.org/pdf/1709.00103.pdf](https://arxiv.org/pdf/1709.00103.pdf) 
+    **Paper:** [https://arxiv.org/pdf/1709.00103.pdf](https://arxiv.org/pdf/1709.00103.pdf) 
         
-        ******************Repo:****************** https://github.com/salesforce/WikiSQL 
+    **Repo: **https://github.com/salesforce/WikiSQL 
         
-        ******************Model: T5 Base Fine Tuned on WikiSQL:****************** [https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL](https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL) 
+    **Model: T5 Base Fine Tuned on WikiSQL:** [https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL](https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL) 
         
-        ****************************************************Project based on WikiSQL:**************************************************** https://github.com/tiwarikajal/Seq2SQL--Natural-Language-sentences-to-SQL-Queries (for reproducing)
+    **Project based on WikiSQL:** https://github.com/tiwarikajal/Seq2SQL--Natural-Language-sentences-to-SQL-Queries (for reproducing)
         
     
     **************Papers**************
