@@ -130,7 +130,8 @@ Why English to SQL??
     - [ ]  Reproduce:
         - [ ]  specific pre-trained text-to-SQL model? Run a HF Space?
         - [ ]  Custom-trained text-to-SQL model
-    Input Text --> Normalization (Stemming, Lemmatization) --> Tokenization --> POS Tagging (required?) --> NER (required?) -->Handling Stop Words (required?) --> Parsing (required?)
+
+Input Text --> Normalization (Stemming, Lemmatization) --> Tokenization --> POS Tagging (required?) --> NER (required?) -->Handling Stop Words (required?) --> Parsing (required?)
     
 3. What all open-source technologies we have at our disposal to use in this system ?
     - [ ]  Open Source libraries I would be using
@@ -142,4 +143,6 @@ Why English to SQL??
 5. How do we imagine feedback loop looking for on the fly optimization of these AI-generated queries ?
 
 ### Usecases, other comments
+
+### Future Plans
 
